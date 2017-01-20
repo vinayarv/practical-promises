@@ -1,3 +1,14 @@
+/*********** I explain `exerciseUtils` ********
+*
+* exerciseUtils is a variable that comes from a file in this repo
+* The file `./utils` is on this level and name `utils.js`
+*
+* This file creates a `promisifiedReadFile` - CHECK ME OUT!!!
+*
+* The functions `blue` and `magenta` to help keep your code DRY
+*
+***********************************************/
+
 'use strict';
 
 var Promise = require('bluebird'),
